@@ -4,9 +4,9 @@
         android:checkableBehavior="single">
         <item android:id="@+id/item_mail" android:icon="@android:drawable/ic_dialog_email"
             android:title="Mail" />
-        <item android:id="@+id/item_a" android:icon="@android:drawable/ic_dialog_alert"
+        <item android:id="@+id/item_alert" android:icon="@android:drawable/ic_dialog_alert"
             android:title="Alert" />
-        <item android:id="@+id/item_mail" android:icon="@android:drawable/ic_dialog_info"
+        <item android:id="@+id/item_info" android:icon="@android:drawable/ic_dialog_info"
             android:title="Info" />
     </group>
 
